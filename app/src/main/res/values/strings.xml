@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="phone1">RealMe</string>
+    <string name="desc1">RealMe U1</string>
+    <string name="main1">The Realme U1 is powered by 2.1GHz octa-core processor and it comes with 4GB of RAM. The phone packs 64GB of internal storage that can be expanded up to 256GB via a microSD card. ... The Realme U1 is powered by a 3500mAh non removable battery</string>
+
+
+    <string name="phone2">RealMe</string>
+    <string name="desc2">RealMe 2 Pro</string>
+    <string name="main2">Realme 2 Pro price in India starts from Rs. 13,990. The Realme 2 Pro is powered by 1.8GHz octa-core processor and it comes with 8GB of RAM. The phone packs 128GB of internal storage that can be expanded up to 256GB via a microSD card. ... The Realme 2 Pro is powered by a 3500mAh non removable battery</string>
+
+    <string name="phone3">Xaiomi</string>
+    <string name="desc3">Redmi Note 6 pro</string>
+    <string name="main3">Xiaomi Redmi Note 6 Pro The phone comes with a 6.26-inch touchscreen display with a resolution of 1080 pixels by 2280 pixels. ... The Xiaomi Redmi Note 6 Pro is powered by octa-core processor and it comes with 4GB of RAM. The phone packs 64GB of internal storage that can be expanded.</string>
+
+    <string name="phone4">Xaiomi</string>
+    <string name="desc4">Redmi pocco f1</string>
+    <string name="main4">Poco F1. Poco F1 smartphone was launched in August 2018. The phone comes with a 6.18-inch touchscreen display with a resolution of 1080 pixels by 2246 pixels. ... The Poco F1 is powered by 2.8GHz octa-core processor and it comes with 6GB of RAM.</string>
+
+    <string name="phone5">Vivo</string>
+    <string name="desc5">Vivo Nexus</string>
+    <string name="main5">Vivo Nex A smartphone was launched in June 2018. The phone comes with a 6.59-inch touchscreen display with a resolution of 1080 pixels by 2316 pixels. The Vivo Nex A is powered by 2.2GHz octa-core processor and it comes with 6GB of RAM. The phone packs 128GB of internal storage.</string>
+
+</resources>
